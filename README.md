@@ -15,6 +15,8 @@ There is also an exported .html version.
 
 ## How to Use
 
-1. Open the `pi_estimation.html` file in a browser or see directly in a notebook on github
+Open the `pi_estimation.html` file in a browser or see directly in a notebook on github
+
+## Simple visualization
 
 ![me](https://github.com/gerardmietek/pi_monte_carlo/blob/main/pi_estimation.gif)
